@@ -7,6 +7,6 @@ end
 
 def directors_totals
   result = {}
-  directors_index = 0 
+  director_index = 0 
   result
 end
